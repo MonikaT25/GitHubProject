@@ -12,6 +12,11 @@ public class P1_Git
 		System.out.println("Hello---Github");
 	}
 	
+	public void M3()
+	{
+		System.out.println("Hello---Github");
+	}
+	
 	public static void main(String[] args) 
 	{
 		
